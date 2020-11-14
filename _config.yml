@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 gem "github-pages", group: :jekyll_plugins
-title: Welcome!
-description: a webside of Zhao Yaxuan.
+title: 你好！
+description: 中文测试
