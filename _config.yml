@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 gem "github-pages", group: :jekyll_plugins
-title: Hello World!
+title: Welcome!
 description: a webside of Zhao Yaxuan.
