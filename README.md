@@ -2,13 +2,8 @@
 
 hello,i am a little little webside.
 
-my owner is Mediateeee
+by using GitHub Pages
 
-his name is Kosiwagi
-
-a chinese boy
-
-is not a japanese boy
-
-but he likes japan.
+and cayman theme
+![cayman](https://github.com/pages-themes/cayman/raw/master/thumbnail.png)
 
