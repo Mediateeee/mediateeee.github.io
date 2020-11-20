@@ -1,7 +1,3 @@
----
----
-
-@import "{{ site.theme }}";
 theme: jekyll-theme-cayman
 gem "github-pages", group: :jekyll_plugins
 title: 你好！
