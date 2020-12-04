@@ -4,5 +4,6 @@
 
 ![yalong](https://github.com/Mediateeee/mediateeee.github.io/blob/main/addons/yalong0.jpg?raw=true "yalong")
 
-本次更新后将不再更新，将持续至2021年1月，感谢.            4/12/2020
+本次更新后将暂停更新，直至2021年1月，感谢.            4/12/2020
+
 音乐、视频播放测试结束，感谢.
