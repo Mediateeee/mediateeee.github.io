@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+
+<title>Video-Test | TEST</title>
+<!--https://www.bootcdn.cn/video.js/-->
+    <link href="https://cdn.bootcss.com/video.js/7.6.5/alt/video-js-cdn.min.css" rel="stylesheet">
+    <script src="https://cdn.bootcss.com/video.js/6.6.2/video.js"></script>
+    <!--https://www.bootcdn.cn/videojs-contrib-hls/-->
+    <script src="https://cdn.bootcss.com/videojs-contrib-hls/5.15.0/videojs-contrib-hls.min.js"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="https://mediateeee.github.io/css/style.css">
+
+</script></head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">艺妓回忆录</h1>
+      <h2 class="project-tagline">我们很正式地告诉大家，现已可以在线播放视频了，感谢 @十色鹿</h2>
+	  <h3 class="project-tagline">Yaxuan's Webside</h3>
+      
+    </section>
+
+    <section class="main-content">
+      <h1 id="VideoPlayer">视频播放</h1>
+艺妓回忆录
+	<h2 id="zero"></h2>
+	<video id="myVideo" class="video-js vjs-default-skin vjs-big-play-centered" controls preload="auto" width="1080" height="708" data-setup='{}'>    
+        <source id="source" src="https://sina.com-h-sina.com/20180725/47_e1490267/index.m3u8"  type="application/x-mpegURL">
+    </video>
+	<h3 id="zero"></h3>
+	
+	<font  size="6px">特别感谢 @十色鹿。因找不到其个人微博，所以将其博客贴在网页上，</font><a href="https://home.cnblogs.com/u/fger/" style="font-size:30px">十色鹿 的个人博客 - 博客园</a>
+ </body>
+<script>    
+    // videojs 简单使用  
+    var myVideo = videojs('myVideo',{
+        bigPlayButton : true, 
+        textTrackDisplay : false, 
+        posterImage: false,
+        errorDisplay : false,
+    })
+    myVideo.play() // 视频播放
+    myVideo.pause() // 视频暂停
+</script>
+<!---Thank https://www.cnblogs.com/fger/p/11523784.html very much!--->
+</html>
