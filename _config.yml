@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 gem "github-pages", group: :jekyll_plugins
 title: Welcome
 description: Zhao Yaxuan's Webside
