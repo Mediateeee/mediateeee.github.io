@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 gem "github-pages", group: :jekyll_plugins
 title: 你好！
 description: 不同人种虽然有体质上的差异，但没有优劣之分，所有人种都是平等的
